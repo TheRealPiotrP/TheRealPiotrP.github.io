@@ -1,6 +1,6 @@
 ---
 layout: post
-Integration Testing VS Code's Tasks API
+title: Integration Testing VS Code's Tasks API
 ---
 
 ### Background

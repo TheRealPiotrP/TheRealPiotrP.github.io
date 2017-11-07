@@ -20,7 +20,7 @@ addons:
 ```
 
 This `.travis.yml` file will install .NET CLI on Ubuntu Trusty in Travis CI:
-
+![dotnet CLI installing in Travis CI](https://github.com/TheRealPiotrP/TheRealPiotrP.github.io/blob/master/images/Screen%20Shot%202017-11-06%20at%2011.55.35%20PM.png)
 
 You can modify the example to support other distros as well as other CLI versions.
 

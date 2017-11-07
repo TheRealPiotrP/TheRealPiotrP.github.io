@@ -1,7 +1,7 @@
-----
+---
 layout: post
-Integration Testing VS Code's Tasks API
-----
+title: Integration Testing VS Code's Tasks API
+---
 
 ### Background
 I recently started contributing to the C# extension for VS Code and the first feature I'm taking on is porting the extension from tasks.json to the new Tasks API. Since the extension is already taking advantage of tasks.json I figured that this would be a fairly simple exercise of removing the json generation and then making the tests pass. Unfortunately, the tests available are fairly focused on the contents of the json file, not on the effect that file has on VS Code. As a new contributor, this made me a bit uncomfortable since I may accidentally break some existing behavior without knowing it existed.
